@@ -1,0 +1,16 @@
+.iti {
+    width: 100%;
+}
+
+.iti--separate-dial-code .iti__selected-flag {
+    background: none;
+    border-right: 1px solid #bace1d;
+}
+
+.iti--allow-dropdown .iti__flag-container:hover .iti__selected-flag {
+    background: none;
+}
+
+.iti__flag-container .iti__selected-flag .iti__flag {
+    /*display:none;*/
+}

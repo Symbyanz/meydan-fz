@@ -1,0 +1,1475 @@
+    .header--m__wrap .hmb-icon button{background:none;}
+
+    @media only screen and (min-width: 1190px)  {
+        .key-ftr__obj.er {
+            width: 80%;
+        }
+    }
+
+    @media only screen and (max-width: 1190px) {
+        .key-ftr__obj .caption, .wd-key-ftr__info .name {
+            font-size: 24px;
+        }
+
+        .intro--lip .intro__info {
+            margin: 0;
+        }
+
+        .wd-key-ftr::before,  
+        .wd-key-ftr::after,
+        .key-ftr::before,
+        .meydan-du::after {
+            display: none;
+        }
+    }
+
+
+
+    @media only screen and (min-width: 992px) and (max-width: 1200px) {
+        .key-ftr::after {
+            display: none;
+        }
+
+        .srch input[type="text"]::-webkit-input-placeholder {
+            font-size: 12px;
+        } 
+    }
+
+    @media only screen and (min-width: 1024px) and (max-width: 1200px) {
+        a {
+            font-size: 12px;
+        }
+        .navbar-light .navbar-nav .nav-link {
+            font-size: 14px;
+        }
+
+        .btn--esmall {
+            font-size: 12px;
+        }
+
+        .navigation .navbar {
+            position: relative;
+            top: 10px;
+        }
+
+        .cta {
+            padding: 16px 10px;
+        }
+    }
+
+
+
+    @media only screen and (min-width: 992px) and (max-width: 1090px) {
+        .key-ftr__obj.er {
+            width: 100%;
+        }
+    }
+
+
+    @media only screen and (min-width: 1025px) {
+        .header--dt {
+            display: block;
+        }
+
+        .header--m {
+            display: none;
+        }
+
+        .resp-menu { 
+            display: none;
+        }
+
+        .key-ftr div[class*="col-"] {
+            padding: 0 3px;
+        }
+
+        .contact__form .meydan-form {
+            width: 90%;
+        }
+
+
+    }
+
+    @media screen and (max-width: 1024px) {
+        .wd-key-ftr__img.hod {
+            height: 300px;
+        }
+
+        .lpwd {
+            height: 820px;
+            padding: 0;
+            margin: 0;
+        }
+
+        .testimo {
+            padding: 0 0 100px;
+        }
+
+        .testimo__dtls__wrp h2 br {
+            display: none;
+        }
+
+        .our-story {
+            height: 400px;
+            margin: 400px 0 80px;
+        }
+
+        .our-story__dtls {
+            margin-top: -380px;
+        }
+
+        .ftr__icon {
+            width: 60%;
+        }
+
+        .bnfit-ftr {
+            margin: 120px 0;
+        }
+
+        .bnfit-ftr::before {
+            display: none;
+        }
+
+        .bnfit-plus {
+            margin: 200px 0 100px;
+        }
+
+        .bnfit-plus::before {
+            top: -40%;
+        }
+
+        .save-mlt {
+        margin: 80px 0; 
+        }
+
+        .faqs .bizsec__nav__link a {
+            font-size: 13px;
+        }
+
+        .chnl-cont__intro h3 br,
+        .chnl-cont__steps h3 br {
+            display: none;
+        }
+        .key-ftr__info .fin-logo .fin-logo__img {
+            width:25%;
+            margin: 0 5% 0 0;
+        }
+    }
+
+    @media only screen and (max-width: 1024px) {
+        .header--dt {
+            display: none;
+        }
+
+        .header--m {
+            display: block;
+        }
+
+        .key-ftr__obj.pexp {
+            float: right;
+            width: 85%;
+        }
+
+        .footer__logo {
+            margin: 50px 0 40px;
+            width: 60%;
+        }
+
+        .footer__social .label {
+            padding-left: 0;
+        }
+
+        .bnfit__ftr {
+            width: 100%;
+            padding: 25px 30px;
+        }
+
+        .bnfit__ftr .name {
+            font-size: 22px;
+        }
+
+        .bnfit .meydan-list ul li {
+            font-size: 18px;
+        }
+
+        .testimo__dtls__wrp {
+            text-align: left;
+        }
+
+        .intro--fz .intro__info {
+            margin: 150px 0 0 20px;
+        }
+
+        .wd-key-ftr__img.hod {
+            height: 400px;
+        }
+
+        .wd-key-ftr__info.sr .btn-blk  {
+            display: none;
+        }
+
+        .wd-key-ftr__info.sr {
+            margin: 30px 0 0;
+        }
+
+        .wd-key-ftr__img.eb {
+            margin: 25px 0;
+        }
+        
+        .intro--wd .intro__info {
+            margin: 0 0 0 50px;
+        }
+
+        .bizsec__nav {
+            margin: 0 0 60px;
+        }
+
+        .bizsec__nav__link {
+            margin-right: 8px;
+            padding-right: 8px;
+        }
+
+        .pofwyn__vb label, .otr-servs__ss label {
+            margin: 0 0 12px;
+        }
+
+        .save-mlt__name {
+            line-height: 48px;
+        }
+
+        .faqs__cont .accordion-button {
+            font-size: 20px;
+        }
+
+        .intro--fq .intro__info {
+            margin: 100px 0 0 100px;
+        }
+
+        .faqs__srch .srch {
+            margin: 15px 0;
+        }
+
+        .chnl-cont h3 br {
+            display: none;
+        }
+
+        .intro--cu .intro__info {
+            margin: 0 0 0 0;
+        }
+
+        .chnl-cont {
+            margin: 50px 0;
+        } 
+
+        .chnl-cont__steps .meydan-list ul li {
+            display: block;
+        }
+
+        .intro--blg .intro__cont .heading {
+            font-size: 34px;
+        }
+
+        .intro--blg .intro__info {
+            margin: 50px 0px 0 10px;
+        }
+
+        .blg-artcl .row {
+            flex-direction: column-reverse;
+        }
+
+        .ad {
+            margin: 35px 0 0;
+        }
+
+    }
+
+    @media only screen and (min-width: 768px) {
+        .key-ftr .row--ali {
+            align-items: flex-end;
+        }
+    }
+
+    @media only screen and (max-width: 768px) {
+        h2 {
+            font-size: 38px;
+        }
+        
+        h3 {
+            font-size: 28px;
+        }
+
+        .sec-descr {
+            font-size: 20px !important;
+        }
+
+        .intro--lp,
+        .intro--lp .intro__bg {
+            height: 960px;
+        }
+
+        .intro__info .heading {
+            font-size: 38px;
+            line-height: 52px;
+        }
+
+        .wmfz .sub-heading {
+            font-size: 20px;
+        }
+
+        .footer__subs-newsl h3 {
+            margin: 0 0 25px;
+        }
+
+        .key-ftr__obj {
+            margin: 5px 0px;
+        }
+
+        .key-ftr__obj.hod {
+            height: 400px;
+            float: right;
+            width: 80%;
+        }
+
+        .key-ftr__obj.er {
+            height: 350px;
+        }
+
+        .key-ftr .row--ali {
+            align-items: flex-start;
+        }
+
+        .bnfit {
+            height: auto;
+        }
+
+        .bnfit__ftr {
+            margin: 25px 0 0;
+        }
+
+        .bnfit p.sec-descr {
+            font-size: 20px;
+        }
+
+        .key-ftr {
+            padding: 50px 0 0;
+            margin: 50px 0 0;
+        }
+
+        .bt {
+            font-size: 16px;
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+        }
+
+        .wd-key-ftr__img.hod {
+            height: 300px;
+        }
+
+        .wd-key-ftr p {
+            font-size: 16px;
+        }
+
+        .bnfit-ftr {
+            margin: 25px 0;
+            padding: 25px 0;
+        }
+
+        .bnfit-plus {
+            margin: 50px 0;
+        }
+		
+		.bnfit-plus::before{
+			display:none;
+		}
+
+        .wyd-intro .wyd-intro__dtls .info .img {
+            margin: 0 0 25px;
+        }
+
+        .wyd-intro .wyd-intro__dtls .info .name,
+        .meydan-du__dtls .info .title {
+            font-size: 30px;
+            line-height: 38px;
+        }
+
+        .wyd-intro .wyd-intro__dtls .info .name span,
+        .meydan-du__dtls .info .title span {
+            font-size: 34px;
+        }
+
+        .wyd-intro__swiper {
+            padding: 40px 0;
+        }
+
+        .wyd-intro .wyd-intro__dtls .info .img {
+            border-radius: 50px;
+        }
+
+        .meydan-du__dtls .img {
+            float: none;
+        }
+
+        .st-jrne__wrap {
+            padding: 60px 40px 40px;
+        }
+
+        .pofwyn__vb label, .otr-servs__ss label {
+            margin: 0 0 12px;
+        }
+
+        .pofwyn__vb .btn-blk {
+            margin: 0px;
+        }
+
+        .save-mlt__wrp {
+            width: 100%;
+        }
+
+        .save-mlt__name {
+            font-size: 46px;
+        }
+
+        .save-mlt__name span {
+            font-size: 30px;
+        }
+
+        .faqs__cont .accordion-button {
+            font-size: 18px;
+        }
+
+        .faqs__cont .accordion-button span {
+            font-size: 16px;
+        }
+
+        .intro--fq .intro__info {
+            margin: 100px 0 0 0;
+        } 
+
+        .intro--cp .intro__cont {
+            align-items: flex-start;
+        }
+
+        .intro--cp .intro__info {
+            margin: 50px 0 0 0;
+        }
+
+        .intro--cu .intro__cont {
+            align-items: flex-start;
+        }
+
+        .intro--cu .intro__info {
+            margin: 0 0 0 0;
+        }
+
+        .contact-cont {
+            display: none;
+        }
+
+        .intro--rf .intro__cont {
+            align-items: flex-start;
+        }
+
+        .intro--rf .intro__info {
+            margin: 130px 0 0 10px;
+        }
+
+        .blg-info .blg-info__dtls img {
+            width: 3%;
+        }
+
+        .bizsec__nav {
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .pto, .myd-card {
+            max-width: calc(100% - 50px);
+        }
+
+        .otr-servs .myd-card__descr p {
+            min-height: 60px;
+        }
+
+        .otr-servs .myd-card__price {
+            margin: 0 0 25px;
+        }
+
+        .key-ftr__info .fin-logo .fin-logo__img {
+            width: 25%;
+            margin:0 5% 0 0;
+        }
+        .key-ftr__info .fin-logo .fin-logo__img img{
+        
+            margin:0;
+        }
+
+        main {
+            margin-top: 20px !important;
+        }
+    }
+
+
+
+    @media screen and (max-width: 576px) {
+
+        input {
+            font-size: 14px;
+        }
+
+        input::-webkit-input-placeholder {
+            font-size: 12px;
+        }
+
+        h3 {
+            font-size: 24px;
+        }
+
+        /* section {
+            padding-left: 5px !important;
+            padding-right: 5px !important;
+        } */
+
+        .srch,
+        .srch input[type="text"],
+        .srch input[type="submit"] {
+            height: 50px;
+        }
+
+        .srch input[type="submit"] {
+            background-size: 30%;
+        }
+
+        .intro--sp .intro__bg {
+            height: 400px;
+        }
+
+        .sec-descr {
+            font-size: 18px !important;
+        }
+
+        .intro--lp .intro__bg {
+            background-image: url(/public/images/m-LP.png);
+        }
+
+
+        .intro__info .heading {
+            font-size: 34px;
+            line-height: 42px;
+        }
+
+        .intro--lp .intro__info {
+            margin: 200px 0  0 100px;
+        }    
+
+        .intro__info .title {
+            font-size: 22px;
+        }
+
+        .key-ftr__obj .caption, .wd-key-ftr__info .name {
+            font-size: 22px;
+        }
+
+        .bnfit {
+            background: url(/public/images/m-bnfit.png) center center no-repeat;
+            background-size: cover;
+            padding: 200px 10px 0;
+            margin: 50px 0;
+        }
+
+        .bnfit-svcs {
+            padding: 0 10px;
+        }
+
+        .lpwd {
+            background: url(/public/images/m-lpwd.png) center center no-repeat;
+            background-size: cover;
+            height: 735px;
+            padding: 0 10px;
+            margin: 0;
+        }
+
+        .lpwd__dtls {
+            width: 100%;
+        }
+
+        .testimo {
+            padding: 0 0 150px;
+        }
+
+        .testimo__dtls__wrp {
+            padding: 0 10px;
+        }
+
+        .testimo__dtls__wrp h2 br {
+            display: none;
+        }
+
+        .testimo__dtls::after {
+            bottom: -25px;
+            display: none;
+        }
+
+        .our-story {
+            height: 275px;
+            padding: 50px 10px;
+            margin: 250px 0 50px;
+        }
+
+        .wmfz {
+            padding: 0 10px;
+        }
+
+        .wd-key-ftr__img.wcvc,
+        .wd-key-ftr__img.eb {
+            height: 200px;
+        }
+
+        .wd-key-ftr__img.sr {
+            height: 300px;
+        }
+
+        .ftr__icon {
+            width: 25%;
+            min-height: 80px;
+        }
+
+        .intro--wd .intro__info {
+            margin: 0 0 0 50px;
+        }
+
+        .wyd-intro .wyd-intro__dtls .info .name,
+        .meydan-du__dtls .info .title {
+            font-size: 24px;
+            line-height: 34px;
+        }
+
+        .wyd-intro .wyd-intro__dtls .info .name span,
+        .meydan-du__dtls .info .title span {
+            font-size: 28px;
+        }
+
+        .meydan-du__dtls .info .title  {
+            margin: 25px 0 0;
+        }
+
+        .meydan-du::after {
+            bottom: 40%;
+        }
+
+        .wyd-intro {
+            margin: 40px 0 100px;
+        }
+
+        .wyd-intro::after {
+            bottom: -26%;
+        }
+
+        .intro--ba .intro__info {
+            margin: 50px 0 0 0;
+        }
+
+        .bizsec__nav__link a {
+            font-size: 14px;
+        }
+
+        .st-jrne__wrap {
+            padding: 40px 20px 25px;
+        }
+
+        .meydan-form .form-blk {
+            margin: 10px 0;
+        }
+
+        .meydan-form input[type="text"], .meydan-form input[type="email"], .meydan-form input[type="submit"], .meydan-form select, .meydan-form textarea {
+            font-size: 14px;
+        }
+
+        .intro--lip .intro__info {
+            margin: 0;
+        }
+
+        .pto__price .visa {
+            font-size: 22px;
+        }
+
+        .pto__price .price {
+            font-size: 24px;
+        }
+
+        .pto__action button  {
+            font-size: 16px;
+            padding: 10px 0;
+        }
+
+        .pofwyn__vb label, .otr-servs__ss label {
+            font-size: 24px;
+        }
+
+        .save-mlt {
+            padding: 100px 0;
+            margin: 50px 0;
+        }
+
+        .save-mlt::before {
+            top: -13%;
+        }
+
+        .save-mlt::after {
+            bottom: -12%;
+        }
+
+        .save-mlt .btn-blk {
+            margin: 35px 0 35px;
+        }
+
+        .om-ov__info.ov {
+            left: 1%;
+            padding: 35px 40px;
+        }
+
+        .om-ov__info.om {
+            padding: 35px 40px 60px;
+        }
+
+        .om-ov__info p {
+            font-size: 20px;
+        }
+
+        .om-ov {
+            padding: 80px 0 0;
+        }
+
+        /* .faqs__cont .accordion-body {
+            font-size: 18px;
+        } */
+
+        .faqs__cont .accordion-button {
+            font-size: 16px !important;
+            padding: .5rem 1rem .8em 1rem;
+        }
+
+        .faqs__cont .accordion-body p {
+            font-size: 16px !important;
+        }
+
+        .accordion-button::after {
+            background-size: 1rem;
+        }
+
+        .intro--fq .intro__info {
+            margin: 60px 0 0 0;
+        } 
+
+        .chnl-cont .ftr {
+            text-align: center;
+        }
+
+        .chnl-cont .ftr .ftr__icon {
+            margin: 10px auto;
+        }
+
+        .chnl-cont .ftr .ftr__name {
+            min-height: 50px;
+        }
+
+        .intro--cu .intro__info {
+            margin: 0 0 0 10px;
+        }
+
+        .contact {
+            padding: 0 10px;
+        }
+
+        .map__wrap {
+            border-radius: 20px;
+        }
+
+        .contact__form p {
+            font-size: 14px;
+            margin: 10px 0 0;
+        }
+
+        .map {
+            margin: 50px 0;
+        }
+
+        .chnl-cont__steps {
+            margin: 30px 0 0;
+        } 
+
+        /* .meydan-form {
+            padding: 6px 0;
+        } */
+
+        .chnl-cont {
+            padding: 0 10px;
+        }
+
+        .intro--blg .intro__info {
+            margin: 24px 0px 0 10px;
+        }
+
+        .intro--blg .intro__cont .heading {
+            font-size: 28px;
+            line-height: 36px;
+        }
+
+        .intro--blg .intro__info {
+            margin: 0 0 0 10px;
+        }
+
+        .bnfit__ftr {
+            transform: none !important;
+        }
+
+        .blgs {
+            padding : 0;
+        }
+
+        .bizsec__nav__link a {
+            padding-bottom: 2px;
+            margin-bottom: 5px;
+        }
+
+        .blg-info .blg-info__img {
+            overflow: auto !important;
+            height: auto !important;
+            margin: 25px 0;
+        }
+
+        .blg-info .blg-info__img img {
+            transform: none !important;
+        }
+
+        .blg-artcls,footer {
+            padding: 0 10px;
+        }
+
+        .bnfit-ftr::befor
+        .key-ftr::after,
+        .bnfit-plus::before {
+            display: none;
+        }
+
+    }
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+        .myd-card {
+            margin: 8px 5px;
+        }
+    }
+
+    @media screen and (max-width: 480px) {  
+
+        input {
+            font-size: 14px !important;
+        }
+
+        h2 {
+            font-size: 32px;
+        }
+
+        h3 {
+            font-size: 22px;
+        }
+
+        h4 {
+            font-size: 20px;
+        }
+
+        h5 {
+            font-size: 18px;
+        }
+
+        .btn--large {
+            font-size: 14px;
+            padding: 12px 30px;
+        }
+
+        .btn--medium {
+            font-size: 14px;
+            padding: 10px 16px;
+        }
+
+        .srch, .srch input[type="text"], .srch input[type="submit"] {
+            height: 45px;
+        }
+
+        .srch input[type="text"] {
+            width: 75%;
+        }
+
+        .srch input[type="submit"] {
+            background-size: 24%;
+            width: 75px;
+        }
+
+        .sec-descr,
+        .our-story__dtls p {
+            font-size: 16px !important;
+        }
+
+        .intro--lp,
+        .intro--lp .intro__bg {
+            height: 600px;
+        } 
+
+        .intro__info .heading {
+            font-size: 26px;
+            line-height: 35px;
+			/*max-width:75%;*/
+        }
+		.iti.iti--allow-dropdown.iti--separate-dial-code{display:block;}
+		.page-8 .intro__info .heading, .page-6120 .intro__info .heading{
+			max-width:100%;
+		}
+
+        .intro--lp .intro__info {
+            margin: 120px 0 0 50px;
+        }
+
+        .btn--small {
+            font-size: 12px;
+            padding: 8px 14px;
+        }
+
+        .btn--large {
+            font-size: 16px;
+        }
+
+        .intro--fz .intro__info {
+            margin: 80px 0 0 20px;
+        }
+
+        .intro__info .title {
+            font-size: 20px;
+        }
+
+        /* .header--m__wrap .hmb-icon button {
+            width: 50%;
+        } */
+
+        .header--m .header__logo {
+            width: 40%;
+        }
+
+        .resp-menu ul li a {
+            font-size: 18px;
+        }
+
+        .wmfz .sub-heading {
+            font-size: 18px;
+        }
+
+
+        .footer__subs-newsl .email input[type="text"] {
+            font-size: 14px;
+        }
+
+        .footer__subs-newsl .email input[type="submit"] {
+            font-size: 12px;
+        }
+
+        .key-ftr__obj,
+        .wd-key-ftr__img {
+            border-radius: 30px;
+        }
+
+        .key-ftr__obj.hod {
+            height: 365px;
+        }
+
+        .key-ftr__obj.eb {
+            height: 175px;
+        }
+
+        .key-ftr__obj.er {
+            height: 300px;
+        }
+
+        .key-ftr__obj.wcvc {
+            height: 175px;
+        }
+
+        .key-ftr__obj.pptt {
+            height: 180px;
+        }
+
+        .key-ftr__obj.pexp {
+            width: 55%;
+            height: 265px;
+        }
+
+        .key-ftr__obj .caption, .wd-key-ftr__info .name {
+            font-size:20px;
+        }
+
+        .bnfit p.sec-descr {
+            font-size: 18px;
+        }
+        
+        .bnfit .meydan-list ul li {
+            font-size: 16px;
+        }
+
+        .bnfit__ftr .name {
+            font-size: 20px;
+        } 
+
+        .testimo__dtls__wrp .info .name {
+            font-size: 16px;
+        }
+
+        .wd-key-ftr p {
+            margin: 0;
+        }
+
+        .wd-key-ftr__img.hod {
+            height: 265px;
+        }
+
+        .wd-key-ftr__img.wcvc,
+        .wd-key-ftr__img.eb {
+            height: 200px;
+        }
+
+        .intro--wd .intro__info{
+            margin: 0;
+        }
+
+        .slick-list {
+            margin: 0;
+        }
+
+        .save-mlt__name {
+            font-size: 38px;
+            line-height: 38px;
+        }
+
+        .save-mlt__name span {
+            font-size: 26px;
+        }
+
+        .om-ov__info p {
+            font-size: 16px;
+        }
+
+        /* .om-ov__info.om {
+            padding: 50px 40px;
+        } */
+
+        .om-ov {
+            padding: 40px 0 0;
+        }
+
+        .faqs__cont .accordion-button {
+            font-size: 14px;
+            padding: .2rem .5rem .8em .5rem;
+        }
+
+        .faqs__cont .accordion-item {
+            margin: 12px 0;
+        }
+
+        .faqs__cont .accordion-button span {
+            font-size: 12px;
+        }
+		
+		.faqs__cont .accordion-body{
+			padding: 0.5rem 1rem;
+		}
+
+        .faqs__cont .accordion-body p, .faqs__cont .accordion-body ul {
+            font-size: 16px !important;
+            padding: 0.5rem 0rem;
+        }
+
+        .faqs {
+            padding-bottom: 50px;
+            margin-top: 20px;
+        }
+
+        .faqs__action {
+            margin: 50px 0 0;
+        }
+
+        .chnl-cont__steps .meydan-list small {
+            font-size: 12px;
+        }
+
+        .chnl-cont__form p {
+            font-size: 12px;
+        }
+
+        .meydan-form label {
+            font-size: 14px;
+        }
+
+        .chnl-cont__steps .meydan-list ul li {
+            padding-top: 16px;
+            padding-bottom: 16px;
+        }
+
+        .bizsec__nav {
+            margin: 0 0 25px;
+        }
+    }
+
+    @media screen and (max-width: 414px) {
+
+        a {
+            font-size: 12px;
+        }
+
+        .cta {
+            padding: 12px 22px;
+        }
+
+        .cta:before {
+            width: 45px;
+            height: 45px;
+        }
+
+        .cta span {
+            font-size: 12px;
+            line-height: 24px;
+        }
+
+        .btn--large,
+        .btn--medium {
+            font-size: 12px;
+        }
+
+        .header--m .header__logo {
+            width: 32%;
+        }
+
+        .header--m .tel .icon {
+            width: 20%; 
+        }
+
+        .resp-menu__close i {
+            font-size: 24px;
+        }
+
+        .resp-menu ul li a {
+            font-size: 14px;
+            padding: 12px 0 16px;
+        }
+
+        .resp-menu ul li ul li a {
+            font-size: 14px;
+        }
+
+        .meydan-list ul li {
+            font-size: 14px;
+        }
+
+        .meydan-list--disc ul li::before {
+            top: 8px;
+        }
+
+        .bnfit .meydan-list--disc ul li::before {
+            font-size: 26px;
+            top: 5px;
+        }
+
+        .intro__info .title {
+            font-size: 18px;
+        }
+
+        .footer__logo {
+            margin: 50px 0 20px;
+        }
+
+        .footer__nav ul li {
+            margin: 16px 0;
+        }
+
+        .footer__nav ul li a, .footer__nav ul li,
+        .footer__copyright p, .footer__bot a {
+            font-size: 12px;
+        }
+
+        .footer__social ul li a {
+            font-size: 16px;
+        }
+
+        .wd-key-ftr__img.hod {
+            height: 220px;
+        }
+
+        .wd-key-ftr p {
+            font-size: 16px;
+        }
+
+        .wd-key-ftr__info .name span {
+            font-size:20px;
+        } 
+
+        .wd-key-ftr__img.sr {
+            height: 265px;
+        }
+
+        .ftr__name {
+            font-size: 14px;
+        }
+
+        .chnl-cont__steps .meydan-list ul li {
+            padding-top: 16px;
+            padding-bottom: 16px;
+        }
+
+        .chnl-cont__steps .meydan-list ul li::before {
+            background-size: 40%;
+            top: 20px;
+        }
+
+        .contact__form p {
+            font-size: 12px;
+        }
+
+        .bnfit-svcs__svc .slide {
+            margin: 0 2rem 2rem;
+        }
+
+        .meydan-du__dtls .img {
+            width: 100%;
+        }
+    }
+
+    @media screen and (max-width: 375px) {
+
+        h2 {
+            font-size: 28px;
+        }
+
+        h3 {
+            font-size: 20px;
+        }
+
+        h5 {
+            font-size: 16px;
+        }
+
+        p {
+            font-size: 14px;
+        }
+
+        input,
+        input::-webkit-input-placeholder {
+            font-size: 12px !important;
+        }
+
+        
+        /* .resp-menu ul li a {
+            font-size: 12px;
+            padding: 12px 0 20px;
+        }
+
+        .resp-menu ul li ul li a {
+            font-size: 12px;
+            padding: 6px 0;
+        } */
+
+
+        .intro--lp .intro__info {
+            margin: 120px 0 0 20px;
+        }
+
+        .wmfz .sub-heading {
+            font-size: 16px;
+        }
+
+        .meydan-list ul li {
+            font-size: 12px;
+        }
+
+        .key-ftr__obj.hod {
+            height: 300px;
+        }
+
+        .key-ftr__obj.hod .caption {
+            top: 20px;
+            right: 20px;
+        }
+
+        .key-ftr__obj.eb {
+            height: 175px;
+        }
+
+        .key-ftr__obj.er {
+            height: 250px;
+        }
+
+        .key-ftr__obj.wcvc {
+            height: 140px;
+        }
+
+        .key-ftr__obj.pptt {
+            height: 145px;
+        }
+
+        .key-ftr__obj.pexp {
+            width: 60%;
+            height: 200px;
+        }
+
+        .key-ftr__obj .caption, .wd-key-ftr__info .name {
+            font-size: 16px;
+            left: 15px;
+            bottom: 16px;
+        }
+
+        .key-ftr__obj.hod .caption {
+            top: 20px;
+            right: 20px;
+        }
+
+        .key-ftr .row--ali div[class*='col'] {
+            padding: 0 2px;
+        }
+
+        .bnfit__ftr p {
+            font-size: 12px;
+        }
+
+        .bnfit p.sec-descr {
+            font-size: 16px;
+        }
+
+        .bnfit .meydan-list ul li {
+            font-size: 14px;
+        }
+
+        .bnfit .meydan-list--disc ul li::before {
+            font-size: 26px;
+            top: 4px;
+        }
+
+        .wd-key-ftr__img.hod {
+        height: 180px;
+        } 
+
+        .wd-key-ftr__img.wcvc,
+        .wd-key-ftr__img.eb {
+            height: 120px;
+        }
+
+        .wd-key-ftr__img.sr {
+        height: 240px;
+        }
+
+        .intro__info .heading {
+            font-size: 26px;
+            line-height: 32px;
+        }
+
+        .intro__info .title {
+            font-size: 16px;
+        }
+
+        .save-mlt__name {
+            font-size: 32px;
+            line-height: 32px;
+        }
+
+        .save-mlt__name span {
+            font-size: 20px;
+        }
+
+        .om-ov__info p {
+            font-size: 14px;
+        }
+
+        .chnl-cont__steps .meydan-list small {
+            font-size: 10px;
+        } 
+
+        .ad__info .name {
+            font-size: 18px;
+        }
+
+        .ad__info p {
+            font-size: 16px;
+        }
+
+        .our-story {
+            margin: 260px 0 50px;
+        }
+        .our-story__dtls {
+            margin-top: -400px;
+        }
+    }
+
+    @media only screen and (max-width: 360px) {
+        .wyd-intro .wyd-intro__dtls .info .name,
+        .meydan-du__dtls .info .title {
+            font-size: 20px;
+            line-height: 26px;
+        }
+
+        .wyd-intro .wyd-intro__dtls .info .name span,
+        .meydan-du__dtls .info .title span {
+            font-size: 22px;
+        }
+    }
+
+    @media screen and (max-width: 320px) {
+        h2 {
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 12px;
+        }
+
+        .btn--small {
+            font-size: 10px;
+            padding: 6px 14px 6px;
+        }
+
+        .resp-menu ul li a {
+            font-size: 12px;
+        }
+
+        .resp-menu ul li ul li a {
+            font-size: 12px;
+        }
+
+
+        .wmfz .sub-heading {
+            font-size: 14px;
+        }
+
+        .meydan-list ul li {
+            padding: 10px 0;
+        }
+
+        .meydan-list ul li {
+            font-size: 10px;
+        }
+
+        .bnfit__ftr {
+            padding: 15px 20px;
+        }
+
+        .bnfit__ftr .name {
+            font-size: 18px;
+        }
+
+        .intro__info .heading {
+            font-size: 22px;
+            line-height: 28px;
+        }
+
+        .our-story {
+            height: 200px;
+            margin: 280px 0 50px;
+        }
+
+        .our-story__dtls {
+            margin-top: -430px;
+        }
+    }

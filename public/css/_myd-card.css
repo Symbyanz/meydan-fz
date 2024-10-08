@@ -1,0 +1,123 @@
+.myd-card {
+    border: 1px solid #cccccc;
+    background: #ffffff;
+    border-radius: 40px;
+    position: relative;
+    overflow: hidden;
+    margin: 8px 0;
+    height: 100%;
+}
+
+.myd-card .myd-card__img {
+    width: 100%;
+    height: 160px;
+}   
+
+.myd-card .myd-card__img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.myd-card__name {
+    color: #004a89;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0 0 15px;
+    min-height: 50px;
+}
+
+.myd-card__descr {
+    /* border: 1px solid #bace1d; */
+    border-top: none;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    padding: 25px 25px 0;
+    /* min-height: 275px; */
+}
+
+.myd-card__descr p {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.myd-card__price {
+    color: #004a89;
+    border: 1px solid #bace1d;
+    border-radius: 10px;
+    font-size: 26px;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0px 16px;
+}
+
+.myd-card__price sup {
+    top: -0.8em;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.myd-card--op {
+    display: block;
+}
+
+.myd-card--op .title {
+    color: #004a89;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 15px 0 15px;
+}
+
+.myd-card--op .img {
+    border-radius: 40px;
+    max-width: 100%;
+    height: 500px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.myd-card--op .img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+     transition: all 1.5s;
+    -webkit-transition: all 1.5s;
+}
+
+
+@media only screen and (min-width: 767px) {
+    .myd-card--op:hover .img img {
+        transform: scale(1.2,1.2);
+        -webkit-transform: scale(1.2,1.2);
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .myd-card--op .img {
+        height: 400px;
+    }
+}
+
+@media only screen and (min-width: 480px) {
+     .myd-card--op .title {
+         margin: 20px auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .myd-card {
+        margin: 8px auto 0;
+        /* max-width: 265px; */
+    }
+
+    .myd-card--op {
+        width: 265px;
+        margin: auto;
+    }
+
+    .myd-card--op .img {
+        height: 350px;
+    }
+}
